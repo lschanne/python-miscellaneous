@@ -1,0 +1,1 @@
+Make GameFunctions a class object instead.
